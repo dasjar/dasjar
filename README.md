@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dasjar
+- 👋 Hi, I’m dasjar
 - 👀 I’m interested in Machine Learning, Data Mining, Deep Learning & Data Science
 - 🌱 I’m currently working with Time-Series data for solar flare prediction
 - 💞️ I’m looking to collaborate on any Data Science or Machine Learning Projects/Reserach
